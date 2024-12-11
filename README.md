@@ -1,5 +1,7 @@
 # 💫 About Me:
 > ### _I want to be a software engineer who stays calm and keeps moving forward._
+👨🏻‍💻 I've been working as a Node.js backend developer for about 3 years
+<br>
 🌱 I’m currently learning C++ and C#(.NET, Blazor ...)
 <br>
 📫 How to reach me calmbino@gmail.com
