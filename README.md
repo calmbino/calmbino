@@ -1,6 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻I want to be a software engineer who stays calm and keeps moving forward.
-<br>
+> ### _I want to be a software engineer who stays calm and keeps moving forward._
 🌱 I’m currently learning C++ and C#(.NET, Blazor ...)
 <br>
 📫 How to reach me calmbino@gmail.com
