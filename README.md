@@ -4,6 +4,8 @@
 <br>
 🌱 I’m currently learning C++ and C#(.NET, Blazor ...)
 <br>
+👀 I'm interested in various AI technologies, including LLM, RAG, CV and ML
+<br>
 📫 How to reach me calmbino@gmail.com
 
 
