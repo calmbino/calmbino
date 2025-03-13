@@ -30,7 +30,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calmbino&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calmbino&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5" height="180" alt="languages graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=calmbino&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="stat graph" />
 </div>
 
